@@ -1,0 +1,25 @@
+{
+  "name": "Hakimi Barber Shop",
+  "short_name": "Hakimi",
+  "description": "Premium barber shop management — sales, barbers, payroll, inventory and reports.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#211d17",
+  "theme_color": "#211d17",
+  "icons": [
+    {
+      "src": "/icons/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
